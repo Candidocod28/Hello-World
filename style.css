@@ -20,3 +20,13 @@ footer{
 .texto-inglês{
     font-style: italic;
 }
+
+#mensagem {
+    background-color: #ffb6c1;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
